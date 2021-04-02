@@ -1,6 +1,6 @@
 ![readme](./assets/readme.png)
 
-# scene_templates
+# CFD scene renderer
 
 This repository provides multiple templates to render CFD or other simulation results using [mitsuba v0.6.0]
 
