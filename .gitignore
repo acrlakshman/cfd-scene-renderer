@@ -7,3 +7,5 @@ images/
 *.zip
 
 .DS_Store
+
+build/
